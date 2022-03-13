@@ -1,7 +1,7 @@
-#MergulhoAPI#
+# MergulhoAPI
 Curso de java [Mergulho Spring Rest - algaworks]
 
-##Conteúdo##
+## Conteúdo
 
 - criamos projeto *spring boot*
 - usamos o *lambok* para gerar getter e setter -> pode criar construtores e mais
@@ -14,7 +14,7 @@ Curso de java [Mergulho Spring Rest - algaworks]
 - boas práticas com datas - usamos *OffsetDateTime*
 - usamos o *modelMapper core* - um *maven core*(Converter as propriedades de representação para exibir ao cliente)
 
-##Resultado##
+## Resultado
 
 - Criação de uma *API REST*
 - Boas práticas de codificação
